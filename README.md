@@ -1,2 +1,5 @@
-# paoinf.github.io
-Płocka Akademia Olimpijczyka - Informatyka
+# Płocka Akademia Olimpijczyka 
+## Informatyka
+
+### Materiały
+Materiały w pormie PDF można znaleźć [tutaj](main.pdf).
