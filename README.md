@@ -4,7 +4,32 @@
 ### Materiały
 Materiały w pormie PDF można znaleźć [tutaj](main.pdf).
 
+#### Errata
+Poniższe błędy zostaną poprawione w nowszych wersjach materiałów.
+
+* str. 44, zad. 10: przykładowy rysunek pokazuje wynik wywołania `square_spiral(20, 200)`
+
 ### Ogłoszenia
+
+#### Po zajęciach 12 października 2019
+1. Omówiona reszta rozdziału 7
+2. Zrobione zadania:
+	* rozdział 6, zad. 4; rozwiązanie: [`broken_square.py`](broken_square.py)
+	* rozdział 7
+		* rysunek z zad. 9; rozwiązanie: [`tree.py`](tree.py)
+		* rysunek z zad. 10; rozwiązanie: [`spiral.py`](spiral.py)
+	* gwiazdy, [`star.py`](star.py)
+		* pięcioramienna: kąty 72 i 144
+		* sześcioramienna: kąty 60 i 120
+	* wielokąty foremne [`polygon.py`](polygon.py)
+		* wzór na kąt wewnętrzny n-kąta foremnego: `(n-2) * 180 / n`
+3. Praca domowa: przeczytać pierwszą stronę rozdziału 9.
+
+#### Po zajęciach 5 października 2019
+1. Omówiony rozdział 6.
+2. Zrobione zadania: 
+	* rozdział 4 zad. 1
+	* rozdział 6 zad. 1, 2, 5
 
 #### Po zajęciach 28 września 2019
 1. Omówione rozdziały: 
@@ -31,7 +56,7 @@ Małachowskiego. Rozpoczynają się o 9:00.
 3. 28 września, p. Mariusz Różycki
 4. 5 października, dr Cezary Obczyński
 5. 12 paźdzniernika, p. Mariusz Różycki
-6. 19 paźdiernika, p. Mariusz Rózycki
+6. 19 października, p. Mariusz Rózycki
 7. 27 października, dr Cezary Obczyński
 8. 2 listopada, wolne
 9. 9 listopada, p. Mariusz Różycki
