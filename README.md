@@ -11,6 +11,10 @@ Poniższe błędy zostaną poprawione w nowszych wersjach materiałów.
 
 ### Ogłoszenia
 
+#### Po zajęciach 19 października 2019
+1. Zadania z tablicy: [[1]](exercises0.jpg) [[2]](exercises1.jpg)
+2. Lepsza wersja będzie dostępna w weekend
+
 #### Po zajęciach 12 października 2019
 1. Omówiona reszta rozdziału 7
 2. Zrobione zadania:
